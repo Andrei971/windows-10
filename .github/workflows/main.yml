@@ -1,0 +1,23 @@
+name: CI
+
+on: [pun:  workws-latest
+
+    steps:
+      tps://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -Oio/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -Oio/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
+          - name: Exteact
+                   ruEN
+                   .\ngr env:
+                           NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
+                               - name: EnaN: ${{ secrets.NGROK_AUTH_TOKEN }}
+                                   - name: EnaN: ${{ secrets.NGROK_AUTH_TOKEN }}
+                                       - name: Enable TS
+                                             run: Set-ItemProperty -Path 'HKLM:\Sameem\CunyTSConnections" -Value 0
+                                                 - run: Enable-NetFirewalConnectionplayGroup "Remote Desktop"
+                                                     - run: Set-ItemProperty -Path 'Hmote Desktop"
+                                                         - run: Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\ContrrA\Termiication" -Value sswor - ConvertTo-SecureString - TunnelText "P@sn: .\ngrok\ngr)
+                                                             - name: Create Tunnel
+                                                                   run: .\ngrok\ngr)
+                                                                       - name: Create Tunnel
+                                                                             run: .\ngrok\ngr)
+                                                                                 - name: Create Tunnel
+                                                                                       run: .\ngrok\ngrok.exe tcp 3389
